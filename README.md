@@ -1,4 +1,4 @@
-🐦 pterodactyl-auto-installer
+:bird: pterodactyl-auto-installer
 
 AUTO INSTALLER SCRIPT
 
@@ -23,4 +23,4 @@ Contributors ✨
 
 Copyright (C) 2023 - 2024
 
-- BY " SANNXDZZ " (https://github.com/Sannxdzz)
+- BY " Sannxdzz " (https://github.com/Sannxdzz)
