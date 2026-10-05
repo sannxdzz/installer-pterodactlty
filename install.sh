@@ -69,13 +69,13 @@ install_jq() {
 check_token() {
   echo -e "                                                       "
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
-  echo -e "${BLUE}[+]               LICENSY SANNXDZZ OFFC             [+]${NC}"
+  echo -e "${BLUE}[+]               LICENSY VALLZ OFFC             [+]${NC}"
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
   echo -e "                                                       "
   echo -e "${YELLOW}MASUKAN AKSES TOKEN :${NC}"
   read -r USER_TOKEN
 
-  if [ "$USER_TOKEN" = "6=^4y65ed9@x@5Ul2wu96GrZ" ]; then
+  if [ "$USER_TOKEN" = "iniwannbroku" ]; then
     echo -e "${GREEN}AKSES BERHASIL${NC}}"
   else
     echo -e "${GREEN} Silahkan Tanyakan Kepada Sannxdzz Jika Token Salah.${NC}"

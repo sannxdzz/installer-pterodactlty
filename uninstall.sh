@@ -7,7 +7,7 @@
 # [+] • Creator Bot WhatsApp & Telegram               [+]
 # [+] • Para Pengguna Bot Tele & Wa                   [+]
 # [+]                                                 [+]
-# [+] © CreateByWannFyy                               [+]
+# [+] © CreateBySannxdzz                               [+]
 # [+] =============================================== [+]
 
 # Membuat lokasi baru
